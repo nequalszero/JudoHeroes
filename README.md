@@ -4,6 +4,10 @@ Server-side rendering Node Express React app created from tutorial at:
 
 `https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app`
 
+Note that babel-node is not suitable for production, see example here for production example:
+
+`https://github.com/babel/example-node-server`
+
 ## Setup
 1. `npm install --save babel-cli@6.11.x babel-core@6.13.x  \
   babel-preset-es2015@6.13.x babel-preset-react@6.11.x ejs@2.5.x \
